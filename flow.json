@@ -39,5 +39,39 @@
         "x": 797,
         "y": 277,
         "wires": []
+    },
+    {
+        "id": "a8e6c204.0df3d",
+        "type": "inject",
+        "z": "14f3f7b.047a008",
+        "name": "",
+        "topic": "",
+        "payload": "",
+        "payloadType": "date",
+        "repeat": "",
+        "crontab": "",
+        "once": false,
+        "onceDelay": 0.1,
+        "x": 320,
+        "y": 340,
+        "wires": [
+            [
+                "579d3adf.d784b4"
+            ]
+        ]
+    },
+    {
+        "id": "579d3adf.d784b4",
+        "type": "debug",
+        "z": "14f3f7b.047a008",
+        "name": "",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "false",
+        "x": 622,
+        "y": 376,
+        "wires": []
     }
 ]
