@@ -18,8 +18,8 @@
         "crontab": "",
         "once": false,
         "onceDelay": 0.1,
-        "x": 460,
-        "y": 180,
+        "x": 120,
+        "y": 60,
         "wires": [
             [
                 "575a7de4.03e244"
@@ -36,8 +36,8 @@
         "console": false,
         "tostatus": false,
         "complete": "false",
-        "x": 797,
-        "y": 277,
+        "x": 530,
+        "y": 140,
         "wires": []
     },
     {
